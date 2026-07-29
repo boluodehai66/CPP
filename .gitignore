@@ -1,0 +1,15 @@
+# Visual Studio 缓存与配置
+.vs/
+.vscode/
+
+# 编译输出与二进制文件
+x64/
+x86/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.user
+*.suo
+*.db
