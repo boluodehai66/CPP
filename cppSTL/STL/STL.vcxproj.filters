@@ -54,5 +54,59 @@
     <ClCompile Include="5-2 String对象创建.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5-3 String赋值操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5-4 String拼接操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5-5 String比较操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5-6 String随机访问.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="icpc_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5-7 String数据插入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5-8 String数据删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5-9 String数据查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5-10 String数据替换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5-11 String字串获取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="练习5-1 String动态口令.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="练习5-2 查找包给定字符的单词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-1 Deque基础概念.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2 Deque对象创建.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-3 Deque赋值操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-4 Deque大小操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Atcoder_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Atcoder_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
