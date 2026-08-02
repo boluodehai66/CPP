@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-int main() {
+int main2_2() {
 	int n;
 	cin >> n;
 	string s;

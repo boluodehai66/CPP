@@ -108,5 +108,14 @@
     <ClCompile Include="Atcoder_2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="6-5 Deque数据插入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-6 Deque数据删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="6-8 Deque随机访问.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
