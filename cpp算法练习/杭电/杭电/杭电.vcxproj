@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4cc9a20e-b939-49bc-84a8-2fe91ab6f8b8}</ProjectGuid>
-    <RootNamespace>基础数据结构</RootNamespace>
+    <ProjectGuid>{5ae810d1-5b46-407f-8257-620e3a094222}</ProjectGuid>
+    <RootNamespace>杭电</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,9 +139,23 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="4-2-2顺序表vector.cpp" />
-    <ClCompile Include="4-2-1顺序表.cpp" />
-    <ClCompile Include="4-3-1.cpp" />
+    <ClCompile Include="hdu2000.cpp" />
+    <ClCompile Include="hdu2001.cpp" />
+    <ClCompile Include="hdu2002.cpp" />
+    <ClCompile Include="hdu2003.cpp" />
+    <ClCompile Include="hdu2004.cpp" />
+    <ClCompile Include="hdu2005.cpp" />
+    <ClCompile Include="hdu2006.cpp" />
+    <ClCompile Include="hdu2007.cpp" />
+    <ClCompile Include="hdu2008.cpp" />
+    <ClCompile Include="hdu2009.cpp" />
+    <ClCompile Include="hdu2010.cpp" />
+    <ClCompile Include="hdu2011.cpp" />
+    <ClCompile Include="hdu2012.cpp" />
+    <ClCompile Include="hdu2013.cpp" />
+    <ClCompile Include="hdu2014.cpp" />
+    <ClCompile Include="hdu2015.cpp" />
+    <ClCompile Include="hdu2016.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

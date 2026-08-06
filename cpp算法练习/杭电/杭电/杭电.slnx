@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="基础数据结构.vcxproj" Id="4cc9a20e-b939-49bc-84a8-2fe91ab6f8b8" />
+  <Project Path="杭电.vcxproj" Id="5ae810d1-5b46-407f-8257-620e3a094222" />
 </Solution>
