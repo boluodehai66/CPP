@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4cc9a20e-b939-49bc-84a8-2fe91ab6f8b8}</ProjectGuid>
-    <RootNamespace>基础数据结构</RootNamespace>
+    <ProjectGuid>{f36b960a-6060-4929-a90f-fb028b5e6d96}</ProjectGuid>
+    <RootNamespace>面向对象</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -111,6 +111,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
+      <AdditionalOptions>/utf-8 %(AdditionalOptions)</AdditionalOptions>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -139,11 +140,17 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="4-2-2顺序表vector.cpp" />
-    <ClCompile Include="4-2-1顺序表.cpp" />
-    <ClCompile Include="4-3-1顺序表实战.cpp" />
-    <ClCompile Include="4-3-8顺序表实战.cpp" />
-    <ClCompile Include="5-2单向链表.cpp" />
+    <ClCompile Include="2-1属性和行为.cpp" />
+    <ClCompile Include="2-2访问权限.cpp" />
+    <ClCompile Include="2-3class和struct.cpp" />
+    <ClCompile Include="2-4属性私有化.cpp" />
+    <ClCompile Include="3-1构造函数.cpp" />
+    <ClCompile Include="3-2析构函数.cpp" />
+    <ClCompile Include="3-3拷贝构造函数.cpp" />
+    <ClCompile Include="3-4初始化列表.cpp" />
+    <ClCompile Include="3-5静态成员变量.cpp" />
+    <ClCompile Include="3-6静态成员函数.cpp" />
+    <ClCompile Include="3-7this指针.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

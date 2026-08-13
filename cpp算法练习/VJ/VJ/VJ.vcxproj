@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4cc9a20e-b939-49bc-84a8-2fe91ab6f8b8}</ProjectGuid>
-    <RootNamespace>基础数据结构</RootNamespace>
+    <ProjectGuid>{e44eaf3b-8d30-443d-8161-26c5086a2aeb}</ProjectGuid>
+    <RootNamespace>VJ</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,11 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="4-2-2顺序表vector.cpp" />
-    <ClCompile Include="4-2-1顺序表.cpp" />
-    <ClCompile Include="4-3-1顺序表实战.cpp" />
-    <ClCompile Include="4-3-8顺序表实战.cpp" />
-    <ClCompile Include="5-2单向链表.cpp" />
+    <ClCompile Include="第一次训练 2023ICPC南京.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,19 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4-2-1顺序表.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="4-2-2顺序表vector.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="4-3-1顺序表实战.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="4-3-8顺序表实战.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="5-2单向链表.cpp">
+    <ClCompile Include="第一次训练 2023ICPC南京.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

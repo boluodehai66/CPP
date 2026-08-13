@@ -15,19 +15,37 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4-2-1顺序表.cpp">
+    <ClCompile Include="2-1属性和行为.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="4-2-2顺序表vector.cpp">
+    <ClCompile Include="2-2访问权限.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="4-3-1顺序表实战.cpp">
+    <ClCompile Include="2-3class和struct.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="4-3-8顺序表实战.cpp">
+    <ClCompile Include="2-4属性私有化.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="5-2单向链表.cpp">
+    <ClCompile Include="3-1构造函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2析构函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3-3拷贝构造函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3-4初始化列表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3-5静态成员变量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3-6静态成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3-7this指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
