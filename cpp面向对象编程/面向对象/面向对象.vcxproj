@@ -151,6 +151,7 @@
     <ClCompile Include="3-5静态成员变量.cpp" />
     <ClCompile Include="3-6静态成员函数.cpp" />
     <ClCompile Include="3-7this指针.cpp" />
+    <ClCompile Include="3-8const修饰成员函数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

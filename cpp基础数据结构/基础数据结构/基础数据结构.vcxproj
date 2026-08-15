@@ -143,6 +143,7 @@
     <ClCompile Include="4-2-1顺序表.cpp" />
     <ClCompile Include="4-3-1顺序表实战.cpp" />
     <ClCompile Include="4-3-8顺序表实战.cpp" />
+    <ClCompile Include="5-2-try.cpp" />
     <ClCompile Include="5-2单向链表.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -48,5 +48,8 @@
     <ClCompile Include="3-7this指针.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3-8const修饰成员函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
