@@ -1,7 +1,7 @@
 //#include <iostream>
 //using namespace std;
 ////返回源字符串的一个字串
-//int main5_11() {
+//int main() {
 //	string s1;
 //	//从第几个位置开始，截取多少个字符
 //	s1 = "Hello woooorld";

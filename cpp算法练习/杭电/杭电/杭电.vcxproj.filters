@@ -66,5 +66,14 @@
     <ClCompile Include="hdu2016.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="hdu1092.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hdu2019.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hdu2041.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -9,7 +9,7 @@
 //	cout << endl;
 //}
 //
-//int main6_2() {
+//int main() {
 //	//1.默认构造函数
 //	deque<int> d1;
 //	cout << "d1: ";

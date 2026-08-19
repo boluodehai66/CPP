@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{4cc9a20e-b939-49bc-84a8-2fe91ab6f8b8}</ProjectGuid>
-    <RootNamespace>基础数据结构</RootNamespace>
+    <ProjectGuid>{a0eea703-d52c-4d05-8f07-b89fb6302b5e}</ProjectGuid>
+    <RootNamespace>基础算法</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -139,15 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="4-2-2顺序表vector.cpp" />
-    <ClCompile Include="4-2-1顺序表.cpp" />
-    <ClCompile Include="4-3-1顺序表实战.cpp" />
-    <ClCompile Include="4-3-8顺序表实战.cpp" />
-    <ClCompile Include="5-2-try.cpp" />
-    <ClCompile Include="5-2单向链表.cpp" />
-    <ClCompile Include="6-2栈-顺序表实现.cpp" />
-    <ClCompile Include="ccpc-2.cpp" />
-    <ClCompile Include="ccpc.cpp" />
+    <ClCompile Include="4-1线性枚举.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

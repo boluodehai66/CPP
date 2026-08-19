@@ -1,7 +1,7 @@
 //#include <iostream>
 //using namespace std;
 //
-//int main5_4() {
+//int main() {
 //	//1.字符串常量的赋值
 //	string s1;
 //	s1 = "xiaoyuyuyuyu";

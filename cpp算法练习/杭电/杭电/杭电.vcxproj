@@ -139,6 +139,7 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="hdu1092.cpp" />
     <ClCompile Include="hdu2000.cpp" />
     <ClCompile Include="hdu2001.cpp" />
     <ClCompile Include="hdu2002.cpp" />
@@ -156,6 +157,8 @@
     <ClCompile Include="hdu2014.cpp" />
     <ClCompile Include="hdu2015.cpp" />
     <ClCompile Include="hdu2016.cpp" />
+    <ClCompile Include="hdu2019.cpp" />
+    <ClCompile Include="hdu2041.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -117,5 +117,53 @@
     <ClCompile Include="6-8 Deque随机访问.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7-1 stack基础概念.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-2 stack对象创建.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-3 stack赋值操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-4 stack入栈操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-5 stack获取栈顶.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-6 stack出栈操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-7 stack大小操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7-8 stack容器替换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8-1 queue基础概念.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8-2 queue对象创建.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8-3 queue赋值操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8-4 queue入队操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8-5 queue获取队首.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8-6 queue获取队尾.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8-7 queue出队操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8-8 queue大小操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

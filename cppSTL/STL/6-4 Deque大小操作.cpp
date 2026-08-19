@@ -4,8 +4,8 @@
 //
 ///*
 //	1.empty		询问是否为空
-//	2.sizse		查看大小
-//	3.resieze	重新定义大小
+//	2.size		查看大小
+//	3.resize	重新定义大小
 //*/
 //
 //void printDeque(deque<int>& d) {
