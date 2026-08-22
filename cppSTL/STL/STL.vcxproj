@@ -184,6 +184,15 @@
     <ClCompile Include="8-6 queue获取队尾.cpp" />
     <ClCompile Include="8-7 queue出队操作.cpp" />
     <ClCompile Include="8-8 queue大小操作.cpp" />
+    <ClCompile Include="9-1 list基础概念.cpp" />
+    <ClCompile Include="9-2 list对象创建.cpp" />
+    <ClCompile Include="9-3 list赋值操作.cpp" />
+    <ClCompile Include="9-4 list大小操作.cpp" />
+    <ClCompile Include="9-5 list数据插入.cpp" />
+    <ClCompile Include="9-7 list数据访问.cpp" />
+    <ClCompile Include="9-6 list数据删除.cpp" />
+    <ClCompile Include="9-8 链表反转.cpp" />
+    <ClCompile Include="9-9 list链表排序.cpp" />
     <ClCompile Include="Atcoder_1.cpp" />
     <ClCompile Include="Atcoder_2.cpp" />
     <ClCompile Include="icpc_1.cpp" />
