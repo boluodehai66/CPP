@@ -192,5 +192,29 @@
     <ClCompile Include="9-9 list链表排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="10-1 set基础概念.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10-2 set对象创建.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10-3 set赋值操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10-4 set大小操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10-5 set数据插入.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10-6 set数据查找.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10-7 set数据删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10-8 set数据统计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

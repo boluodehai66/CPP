@@ -139,6 +139,14 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10-1 set基础概念.cpp" />
+    <ClCompile Include="10-2 set对象创建.cpp" />
+    <ClCompile Include="10-3 set赋值操作.cpp" />
+    <ClCompile Include="10-4 set大小操作.cpp" />
+    <ClCompile Include="10-5 set数据插入.cpp" />
+    <ClCompile Include="10-6 set数据查找.cpp" />
+    <ClCompile Include="10-7 set数据删除.cpp" />
+    <ClCompile Include="10-8 set数据统计.cpp" />
     <ClCompile Include="4-1 vector基础概念.cpp" />
     <ClCompile Include="4-10 vector高效删除.cpp" />
     <ClCompile Include="4-11 vector数据排序.cpp" />
